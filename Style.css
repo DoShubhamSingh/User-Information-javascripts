@@ -1,12 +1,13 @@
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    transition: background-color 0
 }
 
 .container {
@@ -47,4 +48,3 @@ h1 {
     text-align: left;
     padding-left: 10px;
 }
-
